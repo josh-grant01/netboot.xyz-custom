@@ -25,7 +25,7 @@ boot || goto custom_exit
 
 :option_two
 kernel https://boot.netboot.xyz/memdisk raw iso
-initrd http://path.to/iso
+initrd https://software.download.prss.microsoft.com/dbazure/Win11_25H2_English_x64_v2.iso?t=2290001e-0e64-4008-8540-272f020b6ebc&P1=1788984148&P2=602&P3=2&P4=uK6Mq1RGZ6NlrLE30ibXas4VmtNl3HH%2bHAYvXHlSjVimleTk0ix8R7d8EEwAelz0ugT8Y1FJ%2bCwwD30EOBNMQ7ycgha0853FfJiIPtf6O7%2baWj1tDH48W97QGh4cgKphUC37iyLP4IDfQAkF9aRRMDxZ2oBuX9YGgILxUi7SvHl%2fGXehx0S7Mk3tkQYhSYuiZtYgBXgQITFxC%2f0r%2fBM2s1Xl4H2Au%2bzzuyMReIGe9NnMaN98PBYQwmRB2cIRCld3hBiknxUDP0p9mIrEZrkyCfqrrDexhj3FoNlGx%2fJgePJ8eTKpWdoqRSC1NtpBC5U9k9VE%2bLJVPixlORDQXWzopQ%3d%3d
 boot || goto custom_exit
 
 :option_three
